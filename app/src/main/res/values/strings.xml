@@ -5,4 +5,10 @@
     <string name="place_holder">42</string>
     <string name="hint">Choose a Starting Number</string>
     <string name="bt_text">Submit</string>
+    <string name="random_button">Submit a random starting number</string>
+    <string name="decrement_text">-</string>
+    <string name="increment_text">+</string>
+    <string name="place_hoplder_interval">1</string>
+    <string name="hint__">1</string>
+    <string name="message_placeholder_summary">Your current operation will be displayed here</string>
 </resources>

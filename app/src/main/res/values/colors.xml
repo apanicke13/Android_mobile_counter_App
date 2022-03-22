@@ -4,7 +4,9 @@
     <color name="purple_500">#FF6200EE</color>
     <color name="purple_700">#FF3700B3</color>
     <color name="teal_200">#FF03DAC5</color>
-    <color name="charl_green">#2e35e2</color>
+    <color name="charl_green">#2e3532</color>
     <color name="ruby">#8b2635</color>
     <color name="alabaster">#e0e2db</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
 </resources>
